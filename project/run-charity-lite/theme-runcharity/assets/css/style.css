@@ -2,7 +2,7 @@ body {
 	color:#444;
 	font:normal 16px "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
 	font-weight:300;
-	background-color:#022;
+	background-color:rgb(221, 25, 25);
 	overflow-x:hidden;
 	line-height:1.5;
 }
@@ -15,7 +15,7 @@ body {
 }
 
 a {
-	color:#3498db;
+	color:#044fc0;
 	cursor:pointer;
 	text-decoration:none;
 		-moz-transition:all .2s;
@@ -24,7 +24,7 @@ a {
 	transition:all .2s;
 }
 a:hover,a:focus {
-	color:#3498db;
+	color:#044fc0;
 	outline:none;
 	text-decoration:none;
 }
@@ -69,7 +69,7 @@ ul,ol {
 blockquote {
 	padding-top:0;
 	padding-bottom:0;
-	border-color:#1ABC9C;
+	border-color:#c8dd08;
 }
 blockquote small {
 	color:inherit;
@@ -130,10 +130,10 @@ img {
 	outline:none;
 }
 .btn-link {
-	color:#1abc9c;
+	color:#c8dd08;
 }
 .btn-link:hover,.btn-link:focus {
-	color:#16a085;
+	color:#c8dd08;
 }
 .btn-default,.label-default {
 	border-color:#FFF;
@@ -216,24 +216,24 @@ img {
 	background-color:#ecf0f1;
 }
 .nav-tabs>li>a:hover,.nav-tabs>li>a:focus {
-	color:#1abc9c;
+	color:#c8dd08;
 	background:transparent;
 }
 .nav-tabs>li.active>a,.nav-tabs>li.active>a:hover,.nav-tabs>li.active>a:focus {
 	background:transparent;
 	border:none;
-	color:#1abc9c;
-	border-bottom:1px solid #1abc9c;
+	color:#c8dd08;
+	border-bottom:1px solid #c8dd08;
 }
 .nav-pills>li.active>a,.nav-pills>li.active>a:hover,.nav-pills>li.active>a:focus {
-	background-color:#1abc9c;
+	background-color:#c8dd08;
 }
 .nav .caret,.nav a:hover .caret {
-	border-top-color:#1abc9c;
-	border-bottom-color:#1abc9c;
+	border-top-color:#c8dd08;
+	border-bottom-color:#c8dd08;
 }
 .dropdown-menu>.active>a,.dropdown-menu>.active>a:hover,.dropdown-menu>.active>a:focus {
-	background-color:#1abc9c;
+	background-color:#c8dd08;
 }
 .navbar-inverse .navbar-collapse,.navbar-inverse .navbar-form {
 	border-color:#bdc3c7;
@@ -337,16 +337,16 @@ label {
 	color:#FFF;
 }
 .has-success .help-block,.has-success .control-label,.has-success .radio,.has-success .checkbox,.has-success .radio-inline,.has-success .checkbox-inline {
-	color:#2ecc71;
+	color:#c8dd08;
 }
 .has-success .form-control {
-	border-color:#2ecc71;
-	background-color:#2ecc71;
+	border-color:#c8dd08;
+	background-color:#c8dd08;
 }
 .has-success .form-control:hover,.has-success .form-control:focus {
-	border-color:#2ecc71;
+	border-color: #c8dd08;
 	background-color:#FFF;
-	color:#2ecc71;
+	color:#c8dd08;
 		box-shadow:none;
 	-webkit-box-shadow:none;
 	-moz-box-shadow:none;
